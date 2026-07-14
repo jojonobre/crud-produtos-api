@@ -150,10 +150,14 @@ Este projeto faz parte dos meus estudos em:
 
 ---
 
-## Autora
+<div align="center">
 
-**Joyce Maria 💜**
+### Joyce Maria 💜
 
-Estudante de Ciência da Computação | QA Analyst Intern
+Estudante de Ciência da Computação • QA Analyst Intern
 
-Focada em Automação de Testes, Qualidade de Software e Desenvolvimento de Software.
+<a href="https://github.com/jojonobre">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
